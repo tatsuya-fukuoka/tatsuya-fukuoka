@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# 技術
+<img src="https://img.shields.io/badge/-Python-FFCC33.svg?logo=python&style=for-the-badge"><img src="https://img.shields.io/badge/-Json-000000.svg?logo=json&style=plastic"><img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge"><img src="https://img.shields.io/badge/-Linux-000000.svg?logo=linux&style=for-the-badge"><img src="https://img.shields.io/badge/-Ubuntu-000000.svg?logo=ubuntu&style=for-the-badge"><img src="https://img.shields.io/badge/-Debian-A81D33.svg?logo=debian&style=for-the-badge"><img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge">
+
 <!--
 **tatsuya-fukuoka/tatsuya-fukuoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
